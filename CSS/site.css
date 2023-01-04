@@ -18,3 +18,46 @@ body {
 .footer{
     flex-shrink: 0;
 }
+
+/* End Stick Footer*/
+
+/* Start Marvel fan page*/
+
+.logoimage {
+    max-width: 300px;
+}
+
+#heroText {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 4em;
+    margin: 0;
+    text-transform: uppercase;
+    color:rgb(255, 0,0);
+    text-shadow: 2px, 1px, #292929;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: yellow;
+}
+
+.tableheader {
+    background-color: #181818;
+    color:whitesmoke;
+    font-size: 1.5em;
+}
+
+.heroimage {
+    max-width: 200px;
+}
+
+.oddrow {
+    background-color: dimgray;
+}
+
+.evenrow {
+    background-color: #d3d3d3;
+}
+
+table {
+    width: 98%;
+}
+
+/* End Marvel Fan Page*/
