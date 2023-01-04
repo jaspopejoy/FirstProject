@@ -8,6 +8,14 @@ body {
     flex-direction: column;
 }
 
+h1.title {
+    text-align: center;
+}
+
+h2.favhero {
+    text-align: center;
+}
+
 
 .content {
     flex: 1 0 auto;
@@ -61,3 +69,7 @@ table {
 }
 
 /* End Marvel Fan Page*/
+
+.gambitimage {
+    max-width: 200px;
+}
