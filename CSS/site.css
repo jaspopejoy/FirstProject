@@ -73,3 +73,7 @@ table {
 .gambitimage {
     max-width: 400px;
 }
+
+.minheight {
+    min-height: 85vh;
+}
