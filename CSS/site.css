@@ -25,6 +25,7 @@ h2.favhero {
 
 .footer{
     flex-shrink: 0;
+    margin-top: 1rem;
 }
 
 /* End Stick Footer*/
@@ -76,4 +77,12 @@ table {
 
 .minheight {
     min-height: 85vh;
+}
+
+.herotext {
+    font-family: 'Londrina Shadow', cursive;
+    text-transform:uppercase;
+    font-weight: 400;
+    font-style: normal;
+    color:rgb(255, 153, 255);
 }
